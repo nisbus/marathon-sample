@@ -15,7 +15,7 @@ To run this demo you will need the following installed:
 
 Clone this repository to your computer
 ```bash
-git clone https://github.com/nisbus/marathon.git
+git clone https://github.com/nisbus/marathon-sample.git
 ```
 
 After the clone is completed open the directory in a terminal and run the command according to your platform
