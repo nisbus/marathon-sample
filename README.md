@@ -40,7 +40,7 @@ The following is a list of tasks performed to create this solution and the time 
 
 * Read up on Mesos/Marathon (I had never used them before) - 1h
 * Get Mesos/Marathon running on my machine via Docker - 15m
-* Create the service.py rest service and test the API against the Marathon API- 3h
+* Create the service.py rest service and test the API against the Marathon API- 1h
 * Add swagger to the REST service and document the methods - 1h
 * Create makefile and README - 30m
 * Get the code to github - 10m  
