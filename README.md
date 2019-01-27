@@ -1,4 +1,4 @@
-# Mesos sample
+# Mesos/Marathon sample
 
 ## Summary
 
