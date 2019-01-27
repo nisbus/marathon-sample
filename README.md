@@ -1,17 +1,17 @@
-#VOLTA NETWORKS mesos sample
+# VOLTA NETWORKS mesos sample
 
-##Summary
+## Summary
 
 This project contains everything you need to spin up a Mesos/Marathon service and provides a RESTful API
 to Start/Stop useless processes as well as listing one/all running processes.
 
-##Prerequisites
+## Prerequisites
 
 To run this demo you will need the following installed:
  *  [Docker](https://www.docker.com/get-started) 
  *  [docker-compose](https://docs.docker.com/compose/install/)
  
-##Getting started
+## Getting started
 
 Clone this repository to your computer
 ```bash
